@@ -1,5 +1,7 @@
 # NumGenie Scientific Calculator
 
+This was my attempt to practice my NextJS and React skills!!! 
+
 NumGenie is a powerful scientific calculator built as a Progressive Web App (PWA) using Next.js and React
 
 ![image](https://github.com/user-attachments/assets/c8d617ea-0d84-446e-94ca-940c339a8391)
